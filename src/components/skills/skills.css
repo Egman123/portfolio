@@ -1,0 +1,34 @@
+.skills__item {
+    text-align: center;
+    padding: 0 1.25rem 1.25rem;
+}
+
+/* .thumb {
+    height: 5.5rem;
+    width: 5.5rem;
+    margin: 0 auto;
+} */
+
+.skills__title {
+    margin-top: .75rem;
+}
+
+
+
+.swiper-pagination-bullet {
+    width: .5rem !important;
+    height: .375rem !important;
+    background: var(--first-color) !important;
+    opacity: 1 !important;
+}
+
+.swiper-pagination-horizontal.swiper-pagination-bullets 
+.swiper-pagination-bullet {
+    margin: 0 0.2rem !important;
+}
+
+.swiper-pagination-bullet-active {
+    width: 1.2rem !important;
+    height: .375rem !important;
+    border-radius: .5rem !important;
+}

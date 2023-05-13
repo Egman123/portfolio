@@ -1,0 +1,12 @@
+
+ .about__data {
+  padding: 1.785rem;
+  font-size: 1.3rem;
+  background: var(--container-color);
+  box-shadow: var(--shadow);
+  border-radius: var(--border-radius);
+  column-gap: 1.875rem;
+  align-items: flex-start;
+  position: relative;
+}
+
